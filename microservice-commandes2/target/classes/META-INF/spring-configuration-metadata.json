@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "mes-config-ms",
+      "type": "com.commandes.configurations.ApplicationPropertiesConfiguration",
+      "sourceType": "com.commandes.configurations.ApplicationPropertiesConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mes-config-ms.commandeslast",
+      "type": "java.lang.Integer",
+      "sourceType": "com.commandes.configurations.ApplicationPropertiesConfiguration"
+    }
+  ],
+  "hints": []
+}
